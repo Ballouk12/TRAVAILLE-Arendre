@@ -43,13 +43,13 @@ Clonez ce dépôt dans votre répertoire local :
 
 bash
 
-  git clone https://github.com/username/SaisieDonnees.git  
-  
-  Ouvrez le projet dans Android Studio.  
-  
-  Synchronisez les fichiers Gradle et compilez le projet.  
-  
-  Lancez l'application sur un émulateur ou un appareil Android connecté.  
+    git clone https://github.com/Ballouk12/TRAVAILLE-Arendre.git  
+    
+    Ouvrez le projet dans Android Studio.  
+    
+    Synchronisez les fichiers Gradle et compilez le projet.  
+    
+    Lancez l'application sur un émulateur ou un appareil Android connecté.  
   
 **Comment ça marche**  
 
